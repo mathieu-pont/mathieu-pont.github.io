@@ -1,5 +1,6 @@
 ---
 #title: "Mathieu Pont - Home Page"
+pagetitle: "Mathieu Pont - Home Page"
 #author: "Mathieu Pont"
 #date: '2022-05-06'
 output:
