@@ -1,0 +1,75 @@
+---
+#title: "Mathieu Pont - Home Page"
+#author: "Mathieu Pont"
+#date: '2022-05-06'
+output:
+  html_document:
+    theme: default
+---
+
+<style type="text/css">
+.main-container {
+  max-width: 50em;
+  margin-left: auto;
+  margin-right: auto;
+}
+body {
+  color: rgb(225, 255, 255);
+  background-color: rgb(47, 52, 59);
+}
+a:link {
+  color: rgb(77, 230, 230);
+}
+</style>
+
+```{r out.width='25%', out.extra='style="float:right; padding:10px"', echo=FALSE}
+knitr::include_graphics("img/PONT_photo.jpg")
+```
+
+<br /><br /><br />
+
+<right>
+<font size="5">Mathieu Pont</font> 
+
+CNRS - Sorbonne Université (LIP6 team)
+</right>
+
+<br /><br /><br />
+
+## About
+
+I am currently a PhD Student at CNRS Sorbonne Université (LIP6) within the [TORI project](https://erc-tori.github.io/). 
+
+My thesis, directed by [Julien Tierny](https://julien-tierny.github.io/), focuses on Topological Data Analysis, especially in the analysis on an ensemble of merge trees with applications in machine learning, visualization and data reduction.
+
+I did my master degree at Paris Descartes University (now Université Paris Cité) in the "Machine Learning for Data Science" track.
+
+## Research
+
+<!--
+### Publications
+-->
+
+```{r out.width='25%', out.extra='style="float:left; padding:10px"', echo=FALSE}
+knitr::include_graphics("img/pont_vis21_mini.png")
+```
+
+<br />
+
+**<span style="color:rgb(153, 200, 250)">Wasserstein Distances, Geodesics and Barycenters of Merge Trees</span>**
+
+Mathieu Pont, Jules Vidal, Julie Delon, Julien Tierny
+
+IEEE Transactions on Visualization and Computer Graphics
+
+Proc. of IEEE VIS 2021.
+
+[Paper](https://arxiv.org/pdf/2107.07789.pdf) - [Code](https://github.com/MatPont/WassersteinMergeTrees) - [Data](https://github.com/MatPont/WassersteinMergeTreesData) - [Replicability Stamp](http://www.replicabilitystamp.org/#https-github-com-matpont-wassersteinmergetrees)
+
+<br />
+
+<!--
+## Data
+
+### SciVis contest ensemble data
+-->
