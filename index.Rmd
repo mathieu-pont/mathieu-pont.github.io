@@ -32,7 +32,7 @@ knitr::include_graphics("img/PONT_photo.jpg")
 <right>
 <font size="5">Mathieu Pont</font> 
 
-CNRS - Sorbonne Université (LIP6 team)
+CNRS - Sorbonne Université (LIP6)
 </right>
 
 <br /><br /><br />
@@ -65,7 +65,7 @@ IEEE Transactions on Visualization and Computer Graphics
 
 Proc. of IEEE VIS 2021.
 
-[Paper](https://arxiv.org/pdf/2107.07789.pdf) - [Code](https://github.com/MatPont/WassersteinMergeTrees) - [Data](https://github.com/MatPont/WassersteinMergeTreesData) - [Replicability Stamp](http://www.replicabilitystamp.org/#https-github-com-matpont-wassersteinmergetrees)
+[Paper](https://arxiv.org/pdf/2107.07789.pdf) - [Code](https://github.com/MatPont/WassersteinMergeTrees) - [Data](https://github.com/MatPont/WassersteinMergeTreesData) - [Replicability Stamp](http://www.replicabilitystamp.org/#https-github-com-matpont-wassersteinmergetrees) - [Talk](https://www.youtube.com/watch?v=M5fUzDpm3kY)
 
 <br />
 
