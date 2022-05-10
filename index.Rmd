@@ -15,7 +15,7 @@ output:
   margin-right: auto;
 }
 body {
-  color: rgb(225, 255, 255);
+  color: rgb(230, 255, 255);
   background-color: rgb(47, 52, 59);
 }
 a {
@@ -23,21 +23,24 @@ a {
 }
 </style>
 
-```{r out.width='25%', out.extra='style="float:right; padding:10px"', echo=FALSE}
+<!--
+###############################################################################
+-->
+
+```{r out.width='21%', out.extra='style="float:right; padding:0px; margin-top: 17px; margin-right:7px; margin-left:7px"', echo=FALSE}
 knitr::include_graphics("img/PONT_photo.jpg")
 ```
 
+<!--<div style="background-color:rgb(180, 200, 200); text-align: left; color:rgb(44, 51, 51)">-->
+<div>
 <br /><br /><br />
+<span style="margin-left: 37px;"> <font size="6">Mathieu Pont</font> </span>
 
-<right>
-<font size="5">Mathieu Pont</font> 
+<span style="margin-left: 37px;">CNRS - Sorbonne Université (LIP6)</span>
+<br /><br /><br /><br />
+</div>
 
-CNRS - Sorbonne Université (LIP6)
-</right>
-
-<br /><br /><br />
-
-## About
+### About
 
 I am currently a PhD Student at CNRS Sorbonne Université (LIP6) within the [TORI project](https://erc-tori.github.io/). 
 
@@ -45,7 +48,7 @@ My thesis, directed by [Julien Tierny](https://julien-tierny.github.io/), focuse
 
 I did my master degree at Paris Descartes University (now Université Paris Cité) in the "Machine Learning for Data Science" track.
 
-## Research
+### Research
 
 <!--
 ### Publications
