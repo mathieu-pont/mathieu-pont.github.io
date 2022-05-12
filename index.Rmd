@@ -31,7 +31,7 @@ a {
 knitr::include_graphics("img/PONT_photo.jpg")
 ```
 
-<div style="background-color:rgb(180, 200, 200); text-align: left; color:rgb(44, 51, 51)">
+<div style="background-color:rgb(175, 195, 195); text-align: left; color:rgb(44, 51, 51)">
 <br /><br /><br />
 <span style="margin-left: 97px;"> <font size="6">Mathieu Pont</font> </span>
 
@@ -47,12 +47,19 @@ My thesis, directed by [Julien Tierny](https://julien-tierny.github.io/), focuse
 
 I did my master degree at Paris Descartes University (now Université Paris Cité) in the "Machine Learning for Data Science" track.
 
-### Research
+<style>
+  .nav-pills>li>a {
+     color: rgb(230, 255, 255);
+     }
+  .nav-pills>li>a:hover, .nav-pills>li>a:focus, .nav-pills>li.active>a, .nav-pills>li.active>a:hover, .nav-pills>li.active>a:focus{
+     color: rgb(44, 51, 51);
+     background-color: rgb(175, 195, 195);
+     }
+</style>
 
-<!--
-### Publications
--->
+## {.tabset .tabset-fade .tabset-pills}
 
+### <font size="4">Research</font>
 ```{r out.width='25%', out.extra='style="float:left; padding:10px"', echo=FALSE}
 knitr::include_graphics("img/pont_vis21_mini.png")
 ```
@@ -76,3 +83,17 @@ Proc. of IEEE VIS 2021.
 
 ### SciVis contest ensemble data
 -->
+
+### <font size="4">Teaching</font>
+
+##### 2021 - 2022
+
+- [Elements de Programmation 1](http://licence.premiereannee.sorbonne-universite.fr/fr/la-licence-1ere-annee/liste-des-ue/lu1in001-element-de-programmation-i.html) - Licence 1 (Python) : ~20h TD, ~20h TP
+- [Introduction à la Visualisation Scientifique](https://julien-tierny.github.io/visualizationClass.html) - Master 2 (ParaView/C++) : ~20h TP
+
+##### 2020 - 2021
+
+- [Introduction à la Visualisation Scientifique](https://julien-tierny.github.io/visualizationClass.html) - Master 2 (ParaView/C++) : ~20h TP
+- [Elements de Programmation 2](http://licence.premiereannee.sorbonne-universite.fr/fr/la-licence-1ere-annee/liste-des-ue/lu1in002-informatique-2.html) - Licence 1 (C) : ~40h TP
+
+## {-}
