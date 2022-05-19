@@ -31,11 +31,13 @@ a {
 knitr::include_graphics("img/PONT_photo.jpg")
 ```
 
-<div style="background-color:rgb(175, 195, 195); text-align: left; color:rgb(44, 51, 51)">
-<br /><br /><br />
-<span style="margin-left: 97px;"> <font size="6">Mathieu Pont</font> </span>
+<div style="background-color:rgb(180, 190, 195); text-align: left; color:rgb(44, 51, 51); width:47.9em; max-width:47.9em; height:14em; max-height:14em">
+<br /><br />
+<span style="margin-left: 97px;"> <font size="6">Mathieu Pont</font> 
 
 <span style="margin-left: 97px;">CNRS - Sorbonne Université (LIP6)</span>
+
+<span style="margin-left: 97px;">[name].[surname][at]lip6.fr</span>
 <br /><br /><br /><br />
 </div>
 
@@ -53,7 +55,7 @@ I did my master degree at Paris Descartes University (now Université Paris Cit�
      }
   .nav-pills>li>a:hover, .nav-pills>li>a:focus, .nav-pills>li.active>a, .nav-pills>li.active>a:hover, .nav-pills>li.active>a:focus{
      color: rgb(44, 51, 51);
-     background-color: rgb(175, 195, 195);
+     background-color: rgb(180, 190, 195);
      }
 </style>
 
