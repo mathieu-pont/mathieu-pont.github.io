@@ -19,7 +19,7 @@ body {
   background-color: rgb(47, 52, 59);
 }
 a {
-  color: rgb(77, 230, 230);
+  color: rgb(77, 230, 230) !important;
 }
 </style>
 
@@ -51,10 +51,10 @@ I did my master degree at Paris Descartes University (now Universit√© Paris Cit√
 
 <style>
   .nav-pills>li>a {
-     color: rgb(230, 255, 255);
+     color: rgb(230, 255, 255) !important;
      }
   .nav-pills>li>a:hover, .nav-pills>li>a:focus, .nav-pills>li.active>a, .nav-pills>li.active>a:hover, .nav-pills>li.active>a:focus{
-     color: rgb(44, 51, 51);
+     color: rgb(44, 51, 51) !important;
      background-color: rgb(180, 190, 195);
      }
 </style>
