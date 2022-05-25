@@ -16,10 +16,17 @@ output:
 }
 body {
   color: rgb(230, 255, 255);
-  background-color: rgb(47, 52, 59);
+  background-color: rgb(42.3, 46.8, 53.1);
 }
 a {
   color: rgb(77, 230, 230) !important;
+}
+.nav-pills>li>a {
+   color: rgb(230, 255, 255) !important;
+}
+.nav-pills>li>a:hover, .nav-pills>li>a:focus, .nav-pills>li.active>a, .nav-pills>li.active>a:hover, .nav-pills>li.active>a:focus{
+   color: rgb(22, 26.5, 26.5) !important;
+   background-color: rgb(180, 190, 195) !important;
 }
 </style>
 
@@ -31,7 +38,7 @@ a {
 knitr::include_graphics("img/PONT_photo.jpg")
 ```
 
-<div style="background-color:rgb(180, 190, 195); text-align: left; color:rgb(44, 51, 51); width:47.9em; max-width:47.9em; height:14em; max-height:14em">
+<div style="background-color:rgb(180, 190, 195); text-align: left; color:rgb(22, 26.5, 26.5); width:47.9em; max-width:47.9em; height:14em; max-height:14em">
 <br /><br />
 <span style="margin-left: 97px;"> <font size="6">Mathieu Pont</font> 
 
@@ -48,16 +55,6 @@ I am currently a PhD Student, since October 2020, at CNRS Sorbonne Université (
 My thesis, directed by [Julien Tierny](https://julien-tierny.github.io/), focuses on Topological Data Analysis, especially in the analysis on an ensemble of merge trees with applications in machine learning, visualization and data reduction.
 
 I did my master degree at Paris Descartes University (now Université Paris Cité) in the "Machine Learning for Data Science" track.
-
-<style>
-  .nav-pills>li>a {
-     color: rgb(230, 255, 255) !important;
-     }
-  .nav-pills>li>a:hover, .nav-pills>li>a:focus, .nav-pills>li.active>a, .nav-pills>li.active>a:hover, .nav-pills>li.active>a:focus{
-     color: rgb(44, 51, 51) !important;
-     background-color: rgb(180, 190, 195);
-     }
-</style>
 
 ## {.tabset .tabset-fade .tabset-pills}
 
