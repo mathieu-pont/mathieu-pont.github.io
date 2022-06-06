@@ -44,7 +44,7 @@ knitr::include_graphics("img/PONT_photo.jpg")
 
 <span style="margin-left: 97px;">CNRS - Sorbonne Université (LIP6)</span>
 
-<span style="margin-left: 97px;">[name].[surname][at]lip6.fr</span>
+*<span style="margin-left: 97px;">[name].[surname][at]lip6.fr</span>*
 <br /><br /><br /><br />
 </div>
 
