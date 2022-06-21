@@ -83,6 +83,12 @@ Proc. of IEEE VIS 2021.
 ### SciVis contest ensemble data
 -->
 
+### <font size="4">Talks</font>
+
+##### 2021
+
+- Oct 28th, [IEEE VIS 2021](http://ieeevis.org/year/2021/welcome) - [Talk](https://www.youtube.com/watch?v=M5fUzDpm3kY)
+
 ### <font size="4">Teaching</font>
 
 ##### 2021 - 2022
