@@ -85,9 +85,13 @@ Proc. of IEEE VIS 2021.
 
 ### <font size="4">Talks</font>
 
+##### 2022
+
+- Jun 28th, [Journée Visu 2022](https://journee-visu.github.io/2022/) - "Distances de Wasserstein, Géodésiques et Barycentres d'Arbres de Fusion"
+
 ##### 2021
 
-- Oct 28th, [IEEE VIS 2021](http://ieeevis.org/year/2021/welcome) - [Talk](https://www.youtube.com/watch?v=M5fUzDpm3kY)
+- Oct 28th, [IEEE VIS 2021](http://ieeevis.org/year/2021/welcome) - "Wasserstein Distances, Geodesics and Barycenters of Merge Trees - [Talk](https://www.youtube.com/watch?v=M5fUzDpm3kY)
 
 ### <font size="4">Teaching</font>
 
