@@ -10,7 +10,7 @@ output:
 
 <style type="text/css">
 .main-container {
-  max-width: 50em;
+  max-width: 60em;
   margin-left: auto;
   margin-right: auto;
 }
@@ -34,17 +34,17 @@ a {
 ###############################################################################
 -->
 
-```{r out.width='21.5%', out.extra='style="border-radius: 15px; float:right; padding:0px; margin-top: 14.5px; margin-right:5.5px; margin-left:5px"', echo=FALSE}
+```{r out.width='17.5%', out.extra='style="border-radius: 15px; float:right; padding:0px; margin-top: 16.5px; margin-left:6px; margin-right:6px"', echo=FALSE}
 knitr::include_graphics("img/PONT_photo.jpg")
 ```
 
-<div style="border-radius: 15px; background-color:rgb(180, 190, 195); text-align: left; color:rgb(22, 26.5, 26.5); width:47.9em; max-width:47.9em; height:14em; max-height:14em">
+<div style="border-radius: 15px; background-color:rgb(180, 190, 195); text-align: center; color:rgb(52, 56.5, 56.5); width:57.9em; max-width:57.9em; height:14em; max-height:14em">
 <br /><br />
-<span style="margin-left: 97px;"> <font size="6">Mathieu Pont</font> 
+<span style="margin-left: 110px; font-weight: 600"> <font size="5">Mathieu Pont</font>
 
-<span style="margin-left: 97px;">CNRS - Sorbonne Université (LIP6)</span>
+<span style="margin-left: 110px;">CNRS - Sorbonne Université (LIP6)</span>
 
-*<span style="margin-left: 97px;">[name].[surname][at]lip6.fr</span>*
+*<span style="margin-left: 110px;">[name].[surname][at]lip6.fr</span>*
 <br /><br /><br /><br />
 </div>
 
@@ -59,21 +59,42 @@ I did my master degree at Paris Descartes University (now Université Paris Cit�
 ## {.tabset .tabset-fade .tabset-pills}
 
 ### <font size="4">Research</font>
-```{r out.width='25%', out.extra='style="float:left; padding:10px"', echo=FALSE}
+
+<br />
+
+```{r out.width='26.5%', out.extra='style="float:left; padding:10px"', echo=FALSE}
+knitr::include_graphics("img/pont_tvcg_2022.png")
+```
+
+**<span style="color:rgb(153, 200, 250); margin-left: 20px">Principal Geodesic Analysis of Merge Trees (and Persistence Diagrams)</span>**
+
+<span style="margin-left: 20px"> Mathieu Pont, Jules Vidal, Julien Tierny
+
+<span style="margin-left: 20px"> IEEE Transactions on Visualization and Computer Graphics
+
+<span style="margin-left: 20px"> Accepted.
+
+<span style="margin-left: 20px"> [Paper](https://arxiv.org/pdf/2207.10960.pdf) - [Code](https://github.com/MatPont/MT-PGA)
+
+<br />
+
+```{r out.width='26.5%', out.extra='style="float:left; padding:10px"', echo=FALSE}
 knitr::include_graphics("img/pont_vis21_mini.png")
 ```
 
 <br />
 
-**<span style="color:rgb(153, 200, 250)">Wasserstein Distances, Geodesics and Barycenters of Merge Trees</span>**
+<br />
 
-Mathieu Pont, Jules Vidal, Julie Delon, Julien Tierny
+**<span style="color:rgb(153, 200, 250); margin-left: 20px">Wasserstein Distances, Geodesics and Barycenters of Merge Trees</span>**
 
-IEEE Transactions on Visualization and Computer Graphics
+<span style="margin-left: 20px"> Mathieu Pont, Jules Vidal, Julie Delon, Julien Tierny
 
-Proc. of IEEE VIS 2021.
+<span style="margin-left: 20px"> IEEE Transactions on Visualization and Computer Graphics
 
-[Paper](https://arxiv.org/pdf/2107.07789.pdf) - [Code](https://github.com/MatPont/WassersteinMergeTrees) - [Data](https://github.com/MatPont/WassersteinMergeTreesData) - [Replicability Stamp](http://www.replicabilitystamp.org/#https-github-com-matpont-wassersteinmergetrees) - [Talk](https://www.youtube.com/watch?v=M5fUzDpm3kY)
+<span style="margin-left: 20px"> Proc. of IEEE VIS 2021.
+
+<span style="margin-left: 20px"> [Paper](https://arxiv.org/pdf/2107.07789.pdf) - [Code](https://github.com/MatPont/WassersteinMergeTrees) - [Data](https://github.com/MatPont/WassersteinMergeTreesData) - [Replicability Stamp](http://www.replicabilitystamp.org/#https-github-com-matpont-wassersteinmergetrees) - [Talk](https://www.youtube.com/watch?v=M5fUzDpm3kY)
 
 <br />
 
@@ -94,6 +115,10 @@ Proc. of IEEE VIS 2021.
 - Oct 28th, [IEEE VIS 2021](http://ieeevis.org/year/2021/welcome) - "Wasserstein Distances, Geodesics and Barycenters of Merge Trees" - [Talk](https://www.youtube.com/watch?v=M5fUzDpm3kY)
 
 ### <font size="4">Teaching</font>
+
+##### 2022 - 2023
+
+- [Elements de Programmation 1](http://licence.premiereannee.sorbonne-universite.fr/fr/la-licence-1ere-annee/liste-des-ue/lu1in001-element-de-programmation-i.html) - Licence 1 (Python) : ~20h TD, ~20h TP
 
 ##### 2021 - 2022
 
