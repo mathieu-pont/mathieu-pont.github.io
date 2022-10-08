@@ -15,18 +15,18 @@ output:
   margin-right: auto;
 }
 body {
-  color: rgb(230, 255, 255);
+  color: rgb(240, 255, 255);
   background-color: rgb(42.3, 46.8, 53.1);
 }
 a {
   color: rgb(77, 230, 230) !important;
 }
 .nav-pills>li>a {
-   color: rgb(230, 255, 255) !important;
+   color: rgb(240, 255, 255) !important;
 }
 .nav-pills>li>a:hover, .nav-pills>li>a:focus, .nav-pills>li.active>a, .nav-pills>li.active>a:hover, .nav-pills>li.active>a:focus{
    color: rgb(22, 26.5, 26.5) !important;
-   background-color: rgb(180, 190, 195) !important;
+   background-color: rgb(183, 190, 195) !important;
 }
 </style>
 
@@ -38,7 +38,7 @@ a {
 knitr::include_graphics("img/PONT_photo.jpg")
 ```
 
-<div style="border-radius: 15px; background-color:rgb(180, 190, 195); text-align: center; color:rgb(52, 56.5, 56.5); width:57.9em; max-width:57.9em; height:14em; max-height:14em">
+<div style="border-radius: 15px; background-color:rgb(183, 190, 195); text-align: center; color:rgb(52, 56.5, 56.5); width:57.9em; max-width:57.9em; height:14em; max-height:14em">
 <br /><br />
 <span style="margin-left: 110px; font-weight: 600"> <font size="5">Mathieu Pont</font>
 
