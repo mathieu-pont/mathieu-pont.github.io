@@ -72,7 +72,7 @@ knitr::include_graphics("img/pont_tvcg_2022.png")
 
 <span style="margin-left: 20px"> IEEE Transactions on Visualization and Computer Graphics
 
-<span style="margin-left: 20px"> Accepted.
+<span style="margin-left: 20px"> Accepted, 2022.
 
 <span style="margin-left: 20px"> [Paper](https://arxiv.org/pdf/2207.10960.pdf) - [Code](https://github.com/MatPont/MT-PGA)
 
