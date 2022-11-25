@@ -108,6 +108,8 @@ knitr::include_graphics("img/pont_vis21_mini.png")
 
 ##### 2022
 
+- Nov. 25th, [JFIG 2022](https://project.inria.fr/jfig2022/) - "Distances de Wasserstein, Géodésiques et Barycentres d'Arbres de Fusion"
+
 - Oct. 17th, [IEEE VIS 2022](http://ieeevis.org/year/2022/welcome) - "Tutorial: Wasserstein Distances, Barycenters and Clusters of Merge Trees in TTK" - [Talk](https://youtu.be/ny0kgoMbOfg?t=10755)
 
 - Jun 28th, [Journée Visu 2022](https://journee-visu.github.io/2022/) - "Distances de Wasserstein, Géodésiques et Barycentres d'Arbres de Fusion"
