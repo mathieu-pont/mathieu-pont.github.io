@@ -122,9 +122,9 @@ knitr::include_graphics("img/pont_vis21_mini.png")
 
 ##### 2022 - 2023
 
-- [Structures de Données]() - Licence 2 (C) : ~20h TP
-
 - [Elements de Programmation 1](http://licence.premiereannee.sorbonne-universite.fr/fr/la-licence-1ere-annee/liste-des-ue/lu1in001-element-de-programmation-i.html) - Licence 1 (Python) : ~20h TD, ~20h TP
+
+- [Structures de Données]() - Licence 2 (C) : ~20h TP
 
 ##### 2021 - 2022
 
