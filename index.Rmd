@@ -158,11 +158,13 @@ knitr::include_graphics("img/pont_vis21_mini.png")
 ##### 2021 - 2022
 
 - [Elements de Programmation 1](http://licence.premiereannee.sorbonne-universite.fr/fr/la-licence-1ere-annee/liste-des-ue/lu1in001-element-de-programmation-i.html) - Licence 1 (Python) : ~20h TD, ~20h TP
+
 - [Introduction à la Visualisation Scientifique](https://julien-tierny.github.io/visualizationClass.html) - Master 2 (ParaView/C++) : ~20h TP
 
 ##### 2020 - 2021
 
 - [Introduction à la Visualisation Scientifique](https://julien-tierny.github.io/visualizationClass.html) - Master 2 (ParaView/C++) : ~20h TP
+
 - [Elements de Programmation 2](http://licence.premiereannee.sorbonne-universite.fr/fr/la-licence-1ere-annee/liste-des-ue/lu1in002-informatique-2.html) - Licence 1 (C) : ~40h TP
 
 ## {-}
