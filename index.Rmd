@@ -113,7 +113,7 @@ knitr::include_graphics("img/pont_vis21_mini.png")
 
 ##### 2023
 
-- Jun. 23th, [Journée APR](https://www-apr.lip6.fr/web/doku.php?id=apr:journees:ete2023) - "Analyse en Géodésiques Principales d'Arbres de Fusion (et de Diagrammes de Persistance)"  
+- Jun. 23rd, [Journée APR](https://www-apr.lip6.fr/web/doku.php?id=apr:journees:ete2023) - "Analyse en Géodésiques Principales d'Arbres de Fusion (et de Diagrammes de Persistance)"  
 
 - Jun. 22th, [Journée Visu 2023](https://journee-visu.github.io/2023/) - "Analyse en Géodésiques Principales d'Arbres de Fusion (et de Diagrammes de Persistance)"
 
