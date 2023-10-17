@@ -113,6 +113,8 @@ knitr::include_graphics("img/pont_vis21_mini.png")
 
 ##### 2023
 
+- Oct. 16th, [Pre-VIS Day](https://www.aviz.fr/Events/Previs2023) - "Principal Geodesic Analysis of Merge Trees (and Persistence Diagrams)"
+
 - Jun. 23rd, [Journée APR](https://www-apr.lip6.fr/web/doku.php?id=apr:journees:ete2023) - "Analyse en Géodésiques Principales d'Arbres de Fusion (et de Diagrammes de Persistance)"  
 
 - Jun. 22nd, [Journée Visu 2023](https://journee-visu.github.io/2023/) - "Analyse en Géodésiques Principales d'Arbres de Fusion (et de Diagrammes de Persistance)"
