@@ -113,26 +113,28 @@ knitr::include_graphics("img/pont_vis21_mini.png")
 
 ##### 2023
 
+- Oct. 22nd, [IEEE VIS](http://ieeevis.org/year/2023/welcome) - "Tutorial: Wasserstein Distances between Persistence Diagrams in TTK"
+
 - Oct. 16th, [Pre-VIS Day](https://www.aviz.fr/Events/Previs2023) - "Principal Geodesic Analysis of Merge Trees (and Persistence Diagrams)"
 
 - Jun. 23rd, [Journée APR](https://www-apr.lip6.fr/web/doku.php?id=apr:journees:ete2023) - "Analyse en Géodésiques Principales d'Arbres de Fusion (et de Diagrammes de Persistance)"  
 
-- Jun. 22nd, [Journée Visu 2023](https://journee-visu.github.io/2023/) - "Analyse en Géodésiques Principales d'Arbres de Fusion (et de Diagrammes de Persistance)"
+- Jun. 22nd, [Journée Visu](https://journee-visu.github.io/2023/) - "Analyse en Géodésiques Principales d'Arbres de Fusion (et de Diagrammes de Persistance)"
 
-- Jun. 8th, [CORESA 2023](https://coresa2023.sciencesconf.org/) - "Analyse en Géodésiques Principales d'Arbres de Fusion (et de Diagrammes de Persistance)"  
+- Jun. 8th, [CORESA](https://coresa2023.sciencesconf.org/) - "Analyse en Géodésiques Principales d'Arbres de Fusion (et de Diagrammes de Persistance)"  
 *Best Paper and Presentation Award!*
 
 ##### 2022
 
-- Nov. 25th, [JFIG 2022](https://project.inria.fr/jfig2022/) - "Distances de Wasserstein, Géodésiques et Barycentres d'Arbres de Fusion"
+- Nov. 25th, [JFIG](https://project.inria.fr/jfig2022/) - "Distances de Wasserstein, Géodésiques et Barycentres d'Arbres de Fusion"
 
-- Oct. 17th, [IEEE VIS 2022](http://ieeevis.org/year/2022/welcome) - "Tutorial: Wasserstein Distances, Barycenters and Clusters of Merge Trees in TTK" - [Talk](https://youtu.be/ny0kgoMbOfg?t=10755)
+- Oct. 17th, [IEEE VIS](http://ieeevis.org/year/2022/welcome) - "Tutorial: Wasserstein Distances, Barycenters and Clusters of Merge Trees in TTK" - [Talk](https://youtu.be/ny0kgoMbOfg?t=10755)
 
-- Jun. 28th, [Journée Visu 2022](https://journee-visu.github.io/2022/) - "Distances de Wasserstein, Géodésiques et Barycentres d'Arbres de Fusion"
+- Jun. 28th, [Journée Visu](https://journee-visu.github.io/2022/) - "Distances de Wasserstein, Géodésiques et Barycentres d'Arbres de Fusion"
 
 ##### 2021
 
-- Oct. 28th, [IEEE VIS 2021](http://ieeevis.org/year/2021/welcome) - "Wasserstein Distances, Geodesics and Barycenters of Merge Trees" - [Talk](https://www.youtube.com/watch?v=M5fUzDpm3kY)
+- Oct. 28th, [IEEE VIS](http://ieeevis.org/year/2021/welcome) - "Wasserstein Distances, Geodesics and Barycenters of Merge Trees" - [Talk](https://www.youtube.com/watch?v=M5fUzDpm3kY)
 
 
 
