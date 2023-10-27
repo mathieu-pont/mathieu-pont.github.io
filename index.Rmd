@@ -113,6 +113,8 @@ knitr::include_graphics("img/pont_vis21_mini.png")
 
 ##### 2023
 
+- Oct. 26th, [IEEE VIS](http://ieeevis.org/year/2023/welcome) - "Principal Geodesic Analysis of Merge Trees (and Persistence Diagrams)"
+
 - Oct. 22nd, [IEEE VIS](http://ieeevis.org/year/2023/welcome) - "Tutorial: Wasserstein Distances between Persistence Diagrams in TTK"
 
 - Oct. 16th, [Pre-VIS Day](https://www.aviz.fr/Events/Previs2023) - "Principal Geodesic Analysis of Merge Trees (and Persistence Diagrams)"
