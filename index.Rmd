@@ -10,7 +10,8 @@ output:
 
 <style type="text/css">
 .main-container {
-  max-width: 60em;
+  min-width: 800px;
+  max-width: 800px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -28,17 +29,36 @@ a {
    color: rgb(22, 26.5, 26.5) !important;
    background-color: rgb(180, 190, 195) !important;
 }
+
+/* CSS for research papers */
+.container {
+    display: flex;
+    align-items: center;
+    margin-left: 0;
+    justify-content: left;
+    min-width: 800px;
+    max-width: 800px;
+    background-color: rgb(59.51, 64.7, 70.84);
+    border-radius: 10px;
+}
+.image {
+    width: 14em;
+    height: auto;
+}
+.text {
+    margin-left: 30px;
+}
 </style>
 
-<!--
-###############################################################################
--->
+<!--===========================================================================-->
+<!--===========================================================================-->
+<!--===========================================================================-->
 
-```{r out.width='17.5%', out.extra='style="border-radius: 15px; float:right; padding:0px; margin-top: 16.5px; margin-left:6px; margin-right:6px"', echo=FALSE}
+```{r out.width='17.5%', out.extra='style="border-radius: 15px; float:right; padding:0px; margin-top: 16.5px; margin-left:6px; margin-right:-22px"', echo=FALSE}
 knitr::include_graphics("img/PONT_photo.jpg")
 ```
 
-<div style="border-radius: 15px; background-color:rgb(180, 190, 195); text-align: center; color:rgb(52, 56.5, 56.5); width:57.9em; max-width:57.9em; height:14em; max-height:14em">
+<div style="border-radius: 15px; background-color:rgb(180, 190, 195); text-align: center; color:rgb(52, 56.5, 56.5); min-width:800px; max-width:800px; height:13.35em; max-height:13.35em">
 <br /><br />
 <span style="margin-left: 110px; font-weight: 600"> <font size="5">Mathieu Pont</font>
 
@@ -56,45 +76,59 @@ My thesis, directed by [Julien Tierny](https://julien-tierny.github.io/), focuse
 
 I did my master degree at Paris Descartes University (now Université Paris Cité) in the "Machine Learning for Data Science" track.
 
+
+
+<!--===========================================================================-->
+<!--===========================================================================-->
+<!--===========================================================================-->
 ## {.tabset .tabset-fade .tabset-pills}
 
 ### <font size="4">Research</font>
 
 <br />
 
-```{r out.width='26.5%', out.extra='style="float:left; padding:10px"', echo=FALSE}
-knitr::include_graphics("img/pont_tvcg_2022.png")
-```
-
-**<span style="color:rgb(153, 200, 250); margin-left: 20px">Principal Geodesic Analysis of Merge Trees (and Persistence Diagrams)</span>**
-
-<span style="margin-left: 20px"> Mathieu Pont, Jules Vidal, Julien Tierny
-
-<span style="margin-left: 20px"> IEEE Transactions on Visualization and Computer Graphics
-
-<span style="margin-left: 20px"> Accepted, 2022.
-
-<span style="margin-left: 20px"> [Paper](https://arxiv.org/pdf/2207.10960.pdf) - [Code](https://github.com/MatPont/MT-PGA) - [Data](https://github.com/MatPont/WassersteinMergeTreesData) - [Replicability Stamp](http://www.replicabilitystamp.org/#https-github-com-matpont-mt-pga)
-
-<br />
-
-```{r out.width='26.5%', out.extra='style="float:left; padding:10px"', echo=FALSE}
-knitr::include_graphics("img/pont_vis21_mini.png")
+```{=html}
+<div class="container">
+    <img src="img/wetzels_vis23_mini.png" alt="Paper image" class="image">
+    <div class="text">
+      <p style="color:rgb(153, 200, 250)"><b>Merge Tree Geodesics and Barycenters with Path Mappings</b></p>
+      <p>Florian Wetzels, Mathieu Pont, Julien Tierny, Christoph Garth</p>
+      <p><b>IEEE Transactions on Visualization and Computer Graphics.</b></p>
+      <p>Proc. of IEEE VIS 2023.</p>
+      <p><a href=https://arxiv.org/pdf/2308.03672>Paper</a> - <a href=https://github.com/vissubmission1463/ttk/>Code</a></p>
+    </div>
+</div>
 ```
 
 <br />
 
+```{=html}
+<div class="container">
+    <img src="img/pont_tvcg_2022.png" alt="Paper image" class="image">
+    <div class="text">
+      <p style="color:rgb(153, 200, 250)"><b>Principal Geodesic Analysis of Merge Trees (and Persistence Diagrams)</b></p>
+      <p>Mathieu Pont, Jules Vidal, Julien Tierny</p>
+      <p><b>IEEE Transactions on Visualization and Computer Graphics.</b></p>
+      <p>Accepted, presented at IEEE VIS 2023.</p>
+      <p><a href=https://arxiv.org/pdf/2207.10960.pdf>Paper</a> - <a href=https://github.com/MatPont/MT-PGA>Code</a> - <a href=https://github.com/MatPont/WassersteinMergeTreesData>Data</a> - <a href=http://www.replicabilitystamp.org/#https-github-com-matpont-mt-pga>Replicability Stamp</a></p>
+    </div>
+</div>
+```
+
 <br />
 
-**<span style="color:rgb(153, 200, 250); margin-left: 20px">Wasserstein Distances, Geodesics and Barycenters of Merge Trees</span>**
-
-<span style="margin-left: 20px"> Mathieu Pont, Jules Vidal, Julie Delon, Julien Tierny
-
-<span style="margin-left: 20px"> IEEE Transactions on Visualization and Computer Graphics
-
-<span style="margin-left: 20px"> Proc. of IEEE VIS 2021.
-
-<span style="margin-left: 20px"> [Paper](https://arxiv.org/pdf/2107.07789.pdf) - [Code](https://github.com/MatPont/WassersteinMergeTrees) - [Data](https://github.com/MatPont/WassersteinMergeTreesData) - [Replicability Stamp](http://www.replicabilitystamp.org/#https-github-com-matpont-wassersteinmergetrees) - [Talk](https://www.youtube.com/watch?v=M5fUzDpm3kY)
+```{=html}
+<div class="container">
+    <img src="img/pont_vis21_mini.png" alt="Paper image" class="image">
+    <div class="text">
+      <p style="color:rgb(153, 200, 250)"><b>Wasserstein Distances, Geodesics and Barycenters of Merge Trees</b></p>
+      <p>Mathieu Pont, Jules Vidal, Julie Delon, Julien Tierny</p>
+      <p><b>IEEE Transactions on Visualization and Computer Graphics.</b></p>
+      <p>Proc. of IEEE VIS 2021.</p>
+      <p><a href=https://arxiv.org/pdf/2107.07789.pdf>Paper</a> - <a href=https://github.com/MatPont/WassersteinMergeTrees>Code</a> - <a href=https://github.com/MatPont/WassersteinMergeTreesData>Data</a> - <a href=http://www.replicabilitystamp.org/#https-github-com-matpont-wassersteinmergetrees>Replicability Stamp</a> - <a href=https://www.youtube.com/watch?v=M5fUzDpm3kY>Talk</a></p>
+    </div>
+</div>
+```
 
 <br />
 
@@ -147,6 +181,9 @@ knitr::include_graphics("img/pont_vis21_mini.png")
 ### <font size="4">Awards</font>
 
 ##### 2023
+
+- Best Paper Honorable Mention at [IEEE VIS 2023](http://ieeevis.org/year/2023/welcome)  
+*For the paper: "Merge Tree Geodesics and Barycenters with Path Mappings "*
 
 - Best Paper and Presentation Award at [CORESA 2023](https://coresa2023.sciencesconf.org/)  
 *For the talk: "Analyse en Géodésiques Principales d'Arbres de Fusion (et de Diagrammes de Persistance)"*
