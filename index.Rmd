@@ -73,7 +73,7 @@ knitr::include_graphics("img/PONT_photo.jpg")
 
 I am currently a PhD Student, since October 2020, at CNRS Sorbonne Université (LIP6) within the [TORI project](https://erc-tori.github.io/). 
 
-My thesis, directed by [Julien Tierny](https://julien-tierny.github.io/), focuses on Topological Data Analysis, especially in the analysis on an ensemble of merge trees with applications in machine learning, visualization and data reduction.
+My thesis, supervised by [Julien Tierny](https://julien-tierny.github.io/), focuses on Topological Data Analysis, especially on the analysis of ensembles of merge trees and persistence diagrams with applications in machine learning, visualization and data reduction.
 
 I did my master degree at Paris Descartes University (now Université Paris Cité) in the "Machine Learning for Data Science" track.
 
