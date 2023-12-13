@@ -71,6 +71,8 @@ knitr::include_graphics("img/PONT_photo.jpg")
 
 ### About
 
+**Looking for a postdoctoral position.**
+
 I am currently a Research Engineer, since December 2023, at CNRS Sorbonne Université (LIP6) within the [TORI project](https://erc-tori.github.io/). 
 
 My thesis (from October 2020 to December 2023), supervised by [Julien Tierny](https://julien-tierny.github.io/), focused on the analysis of ensembles of scalar fields based on their merge trees or persistence diagrams using tools from Topological Data Analysis, with applications in feature tracking, data reduction, clustering and dimensionality reduction.
@@ -85,6 +87,22 @@ I did my master degree at Paris Descartes University (now Université Paris Cit�
 ## {.tabset .tabset-fade .tabset-pills}
 
 ### <font size="4">Research</font>
+
+<br />
+
+```{=html}
+<div class="container">
+    <img src="img/thesis/thesis.png" alt="Paper image" class="image">
+    <div class="text">
+      <p style="color:rgb(153, 200, 250)"><b>Analysis of Ensembles of Topological Descriptors</b></p>
+      <p>Mathieu Pont</p>
+      <p><b>PhD in Computer Science (2023)</b></p>
+      <p><i>Committee:</i> David Coeurjolly, Vijay Natarajan, Elsa Cazelles, Stanley Durrleman, Gabriel Peyré, Katharine Turner</p>
+      <p><i>Advisor:</i> Julien Tierny</p>
+      <p><a href=>Manuscript</a></p>
+    </div>
+</div>
+```
 
 <br />
 
