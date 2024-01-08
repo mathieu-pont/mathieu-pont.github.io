@@ -97,9 +97,8 @@ I did my master degree at Paris Descartes University (now Université Paris Cit�
       <p style="color:rgb(153, 200, 250)"><b>Analysis of Ensembles of Topological Descriptors</b></p>
       <p>Mathieu Pont</p>
       <p><b>PhD in Computer Science (2023)</b></p>
-      <p><i>Committee:</i> David Coeurjolly, Vijay Natarajan, Elsa Cazelles, Stanley Durrleman, Gabriel Peyré, Katharine Turner</p>
-      <p><i>Advisor:</i> Julien Tierny</p>
-      <p><a href=>Manuscript</a></p>
+      <p><i>Committee:</i> David Coeurjolly (reviewer), Vijay Natarajan (reviewer), Elsa Cazelles, Stanley Durrleman, Gabriel Peyré, Katharine Turner, Julien Tierny (advisor)</p>
+      <p><a href=https://mathieu-pont.github.io/docs/manuscript.pdf>Manuscript</a></p>
     </div>
 </div>
 ```
