@@ -79,6 +79,7 @@ My thesis (from October 2020 to December 2023), supervised by [Julien Tierny](ht
 
 I did my master degree at Paris Descartes University (now Université Paris Cité) in the "Machine Learning for Data Science" track.
 
+[>>> Curriculum Vitae](https://mathieu-pont.github.io/docs/PONT_CV.pdf)
 
 
 <!--===========================================================================-->
