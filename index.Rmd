@@ -71,7 +71,7 @@ knitr::include_graphics("img/PONT_photo.jpg")
 
 ### About
 
-I am currently a post-doc, since December 2023, at CNRS Sorbonne Université (LIP6) within the [TORI project](https://erc-tori.github.io/). 
+I currently have a post-doctoral position, since December 2023, at CNRS Sorbonne Université (LIP6) within the [TORI project](https://erc-tori.github.io/). 
 
 My thesis (from October 2020 to December 2023), supervised by [Julien Tierny](https://julien-tierny.github.io/), focused on the analysis of ensembles of scalar fields based on their merge trees or persistence diagrams using tools from Topological Data Analysis, with applications in feature tracking, data reduction, clustering and dimensionality reduction.
 
@@ -176,6 +176,10 @@ I did my master degree at Paris Descartes University (now Université Paris Cit�
 <!--===========================================================================-->
 <!--===========================================================================-->
 ### <font size="4">Talks</font>
+
+##### 2024
+
+- May 30th, [Journée APR](https://www-apr.lip6.fr/web/doku.php?id=apr:journees:ete2024) -- "Auto-Encodeurs de Wasserstein d'Arbres de Fusion (et de Diagrammes de Persistance)"
 
 ##### 2023
 
