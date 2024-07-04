@@ -180,6 +180,8 @@ I did my master degree at Paris Descartes University (now Université Paris Cit�
 
 ##### 2024
 
+- Jul. 1st, [Kaiserslautern-Landau](https://vis.cs.rptu.de/) Invited Talk -- "Variability Analysis of Ensembles of Topological Descriptors"
+
 - Jun. 18th, [Journée Visu](https://visu-24.sciencesconf.org/) -- "Auto-Encodeurs de Wasserstein d'Arbres de Fusion (et de Diagrammes de Persistance)"
 
 - May 30th, [Journée APR](https://www-apr.lip6.fr/web/doku.php?id=apr:journees:ete2024) -- "Auto-Encodeurs de Wasserstein d'Arbres de Fusion (et de Diagrammes de Persistance)"
