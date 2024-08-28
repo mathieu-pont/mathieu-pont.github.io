@@ -92,6 +92,20 @@ I did my master degree at Paris Descartes University (now Universit√© Paris Cit√
 
 ```{=html}
 <div class="container">
+    <img src="img/kissi_vis24.png" alt="Paper image" class="image">
+    <div class="text">
+      <p style="color:rgb(153, 200, 250)"><b>A Practical Solver for Scalar Data Topological Simplification</b></p>
+      <p>Mohamed Kissi, Mathieu Pont, Joshua A. Levine, Julien Tierny</p>
+      <p><b>IEEE Transactions on Visualization and Computer Graphics.</b></p>
+      <p>Proc. of IEEE VIS 2024.</p>
+      <p><a href=https://arxiv.org/pdf/2407.12399>Paper</a> - <a href=https://www.replicabilitystamp.org/index.html#https-github-com-mohamedkissi-code-paper-a-pratical-solver-for-scalar-data-topological-simplification>Replicability Stamp</a></p>
+    </div>
+</div>
+```
+<br />
+
+```{=html}
+<div class="container">
     <img src="img/thesis/thesis.png" alt="Paper image" class="image">
     <div class="text">
       <p style="color:rgb(153, 200, 250)"><b>Analysis of Ensembles of Topological Descriptors</b></p>
@@ -107,7 +121,7 @@ I did my master degree at Paris Descartes University (now Universit√© Paris Cit√
 
 ```{=html}
 <div class="container">
-    <img src="img/pont_tvcg24_mini.png" alt="Paper image" class="image">
+    <img src="img/pont_tvcg24.png" alt="Paper image" class="image">
     <div class="text">
       <p style="color:rgb(153, 200, 250)"><b>Wasserstein Auto-Encoder of Merge Trees (and Persistence Diagrams)</b></p>
       <p>Mathieu Pont, Julien Tierny</p>
