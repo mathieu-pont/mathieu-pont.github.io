@@ -61,12 +61,14 @@ knitr::include_graphics("img/PONT_photo.jpg")
 ```
 
 <div style="border-radius: 15px; background-color:rgb(180, 190, 195); text-align: center; color:rgb(52, 56.5, 56.5); min-width:800px; max-width:800px; height:13.35em; max-height:13.35em">
-<br /><br />
+<div style="height: 30px;"></div>
 <span style="margin-left: 110px; font-weight: 600"> <font size="5">Mathieu Pont</font>
 
-<span style="margin-left: 110px;">CNRS - Sorbonne Université (LIP6)</span>
+<span style="margin-left: 110px;">Kaiserslautern-Landau University</span>
 
-*<span style="margin-left: 110px;">[name].[surname][at]lip6.fr</span>*
+<span style="margin-left: 110px;">Scientific Visualization Lab</span>
+
+*<span style="margin-left: 110px;">[name].[surname][at]outlook.com</span>*
 <br /><br /><br /><br />
 </div>
 
