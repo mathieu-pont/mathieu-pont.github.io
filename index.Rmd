@@ -76,7 +76,7 @@ knitr::include_graphics("img/PONT_photo.jpg")
 
 I currently have a post-doctoral position, since October 2024, at the Kaiserslautern-Landau University in the [Scientific Visualization Lab](https://vis.cs.rptu.de/), working with [Christoph Garth](https://vis.cs.rptu.de/team/garth/).
 
-Before that, I had a temporary post-doctoral position, starting December 2023, at CNRS Sorbonne Université (LIP6) within the [TORI project](https://erc-tori.github.io/) with [Julien Tierny](https://julien-tierny.github.io/). 
+Before that, I had a temporary post-doctoral position, that started in December 2023, at CNRS Sorbonne Université (LIP6) within the [TORI project](https://erc-tori.github.io/) with [Julien Tierny](https://julien-tierny.github.io/). 
 
 My thesis (from October 2020 to December 2023), supervised by [Julien Tierny](https://julien-tierny.github.io/), focused on the analysis of ensembles of scalar fields based on their merge trees or persistence diagrams using tools from Topological Data Analysis, with applications in feature tracking, data reduction, clustering and dimensionality reduction.
 
