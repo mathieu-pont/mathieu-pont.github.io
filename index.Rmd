@@ -191,12 +191,31 @@ I did my master degree at Paris Descartes University (now Université Paris Cit�
 
 
 
+
+<!--===========================================================================-->
+<!--===========================================================================-->
+<!--===========================================================================-->
+### <font size="4">Awards</font>
+
+##### 2023
+
+- Best Paper Honorable Mention at [IEEE VIS 2023](http://ieeevis.org/year/2023/welcome)  
+*For the paper: "Merge Tree Geodesics and Barycenters with Path Mappings "*
+
+- Best Paper and Presentation Award at [CORESA 2023](https://coresa2023.sciencesconf.org/)  
+*For the talk: "Analyse en Géodésiques Principales d'Arbres de Fusion (et de Diagrammes de Persistance)"*
+
+
+
+
 <!--===========================================================================-->
 <!--===========================================================================-->
 <!--===========================================================================-->
 ### <font size="4">Talks</font>
 
 ##### 2024
+
+- Oct. 17th, [IEEE VIS](http://ieeevis.org/year/2024/welcome) -- "Wasserstein Auto-Encoders of Merge Trees (and Persistence Diagrams)"
 
 - Jul. 1st, [Kaiserslautern-Landau](https://vis.cs.rptu.de/) Invited Talk -- "Variability Analysis of Ensembles of Topological Descriptors"
 
@@ -232,22 +251,6 @@ I did my master degree at Paris Descartes University (now Université Paris Cit�
 ##### 2021
 
 - Oct. 28th, [IEEE VIS](http://ieeevis.org/year/2021/welcome) -- "Wasserstein Distances, Geodesics and Barycenters of Merge Trees" - [Talk](https://www.youtube.com/watch?v=M5fUzDpm3kY)
-
-
-
-
-<!--===========================================================================-->
-<!--===========================================================================-->
-<!--===========================================================================-->
-### <font size="4">Awards</font>
-
-##### 2023
-
-- Best Paper Honorable Mention at [IEEE VIS 2023](http://ieeevis.org/year/2023/welcome)  
-*For the paper: "Merge Tree Geodesics and Barycenters with Path Mappings "*
-
-- Best Paper and Presentation Award at [CORESA 2023](https://coresa2023.sciencesconf.org/)  
-*For the talk: "Analyse en Géodésiques Principales d'Arbres de Fusion (et de Diagrammes de Persistance)"*
 
 
 
