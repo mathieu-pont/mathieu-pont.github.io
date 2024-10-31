@@ -130,7 +130,7 @@ I did my master degree at Paris Descartes University (now Universit√© Paris Cit√
       <p style="color:rgb(153, 200, 250)"><b>Wasserstein Auto-Encoder of Merge Trees (and Persistence Diagrams)</b></p>
       <p>Mathieu Pont, Julien Tierny</p>
       <p><b>IEEE Transactions on Visualization and Computer Graphics.</b></p>
-      <p>To be presented at IEEE VIS 2024.</p>
+      <p>Presented at IEEE VIS 2024.</p>
       <p><a href=https://arxiv.org/pdf/2307.02509.pdf>Paper</a> - <a href=https://github.com/MatPont/MT-WAE>Code</a> - <a href=https://github.com/MatPont/WassersteinMergeTreesData>Data</a> - <a href=https://www.replicabilitystamp.org/#https-github-com-matpont-mt-wae>Replicability Stamp</a></p>
     </div>
 </div>
