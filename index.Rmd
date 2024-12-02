@@ -215,6 +215,8 @@ I did my master degree at Paris Descartes University (now Universit√© Paris Cit√
 
 ##### 2024
 
+- Nov. 21st, [CORESA](https://coresa2024.sciencesconf.org/) -- "Poster: Wasserstein Auto-Encoders of Merge Trees (and Persistence Diagrams)"
+
 - Oct. 17th, [IEEE VIS](http://ieeevis.org/year/2024/welcome) -- "Wasserstein Auto-Encoders of Merge Trees (and Persistence Diagrams)"
 
 - Jul. 1st, [Kaiserslautern-Landau](https://vis.cs.rptu.de/) Invited Talk -- "Variability Analysis of Ensembles of Topological Descriptors"
