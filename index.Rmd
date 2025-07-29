@@ -64,7 +64,7 @@ knitr::include_graphics("img/PONT_photo.jpg")
 <div style="height: 30px;"></div>
 <span style="margin-left: 110px; font-weight: 600"> <font size="5">Mathieu Pont</font>
 
-<span style="margin-left: 110px;">Kaiserslautern-Landau University</span>
+<span style="margin-left: 110px;">RPTU Kaiserslautern-Landau</span>
 
 <span style="margin-left: 110px;">Scientific Visualization Lab</span>
 
@@ -74,7 +74,7 @@ knitr::include_graphics("img/PONT_photo.jpg")
 
 ### About
 
-I currently have a post-doctoral position, since October 2024, at the Kaiserslautern-Landau University in the [Scientific Visualization Lab](https://vis.cs.rptu.de/), working with [Christoph Garth](https://vis.cs.rptu.de/team/garth/).
+I currently have a post-doctoral position, since October 2024, at the RPTU Kaiserslautern-Landau in the [Scientific Visualization Lab](https://vis.cs.rptu.de/), working with [Christoph Garth](https://vis.cs.rptu.de/team/garth/).
 
 Before that, I had a temporary post-doctoral position, that started in December 2023, at CNRS Sorbonne Université (LIP6) within the [TORI project](https://erc-tori.github.io/) with [Julien Tierny](https://julien-tierny.github.io/). 
 
@@ -219,7 +219,7 @@ I did my master degree at Paris Descartes University (now Université Paris Cit�
 
 - Oct. 17th, [IEEE VIS](http://ieeevis.org/year/2024/welcome) -- "Wasserstein Auto-Encoders of Merge Trees (and Persistence Diagrams)"
 
-- Jul. 1st, [Kaiserslautern-Landau](https://vis.cs.rptu.de/) Invited Talk -- "Variability Analysis of Ensembles of Topological Descriptors"
+- Jul. 1st, [RPTU Kaiserslautern-Landau](https://vis.cs.rptu.de/) Invited Talk -- "Variability Analysis of Ensembles of Topological Descriptors"
 
 - Jun. 18th, [Journée Visu](https://visu-24.sciencesconf.org/) -- "Auto-Encodeurs de Wasserstein d'Arbres de Fusion (et de Diagrammes de Persistance)"
 
