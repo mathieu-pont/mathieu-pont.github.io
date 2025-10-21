@@ -74,13 +74,13 @@ a {
 <!--===========================================================================-->
 <!--===========================================================================-->
 
-```{r out.width='17.5%', out.extra='style="border-radius: 15px; float:right; padding:0px; margin-top: 16.5px; margin-left:6px; margin-right:-22px"', echo=FALSE}
+```{r out.width='17.5%', out.extra='style="border-radius: 15px; float:right; padding:0px; margin-top: 16.5px; margin-left:6px; margin-right:7.5px"', echo=FALSE}
 knitr::include_graphics("img/PONT_photo.jpg")
 ```
 
-<div style="border-radius: 15px; background-color:rgb(180, 190, 195); text-align: center; color:rgb(52, 56.5, 56.5); min-width:800px; max-width:800px; height:13.35em; max-height:13.35em">
+<div style="border-radius: 15px; background-color:rgb(180, 190, 195); text-align: center; color:rgb(52, 56.5, 56.5); min-width:100%; max-width:100%; margin:0 auto; height:13.35em; max-height:13.35em">
 <div style="height: 30px;"></div>
-<span style="margin-left: 110px; font-weight: 600"> <font size="5">Mathieu Pont</font>
+<span style="margin-left: 110px; font-weight: 600"> <font size="5">Mathieu Pont</font></span>
 
 <span style="margin-left: 110px;">RPTU Kaiserslautern-Landau</span>
 
@@ -89,6 +89,8 @@ knitr::include_graphics("img/PONT_photo.jpg")
 *<span style="margin-left: 110px;">[name].[surname][at]outlook.com</span>*
 <br /><br /><br /><br />
 </div>
+
+
 
 ### About
 
