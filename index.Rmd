@@ -99,7 +99,7 @@ I did my master degree at Paris Descartes University (now Universit√© Paris Cit√
     <img src="img/regionAware.png" alt="Paper image" class="image">
     <div class="text">
       <p style="color:rgb(153, 200, 250)"><b>Region-Aware Wasserstein Distances of Persistence Diagrams <br> and Merge Trees</b></p>
-      <p>Mathieu Pont, Christoph Garth</p>
+      <p><u>Mathieu Pont</u> and Christoph Garth</p>
       <p>Submitted, 2025.</p>
       <p><a href=https://arxiv.org/pdf/2510.16486>Paper</a></p>
     </div>
@@ -113,8 +113,8 @@ I did my master degree at Paris Descartes University (now Universit√© Paris Cit√
     <img src="img/kissi_vis24.png" alt="Paper image" class="image">
     <div class="text">
       <p style="color:rgb(153, 200, 250)"><b>A Practical Solver for Scalar Data Topological Simplification</b></p>
-      <p>Mohamed Kissi, Mathieu Pont, Joshua A. Levine, Julien Tierny</p>
-      <p><b>IEEE Transactions on Visualization and Computer Graphics.</b></p>
+      <p>Mohamed Kissi, <u>Mathieu Pont</u>, Joshua A. Levine and Julien Tierny</p>
+      <p><b>IEEE Transactions on Visualization and Computer Graphics</b></p>
       <p>Proc. of IEEE VIS 2024.</p>
       <p><a href=https://arxiv.org/pdf/2407.12399>Paper</a> - <a href=https://www.replicabilitystamp.org/index.html#https-github-com-mohamedkissi-code-paper-a-pratical-solver-for-scalar-data-topological-simplification>Replicability Stamp</a></p>
     </div>
@@ -127,7 +127,7 @@ I did my master degree at Paris Descartes University (now Universit√© Paris Cit√
     <img src="img/thesis/thesis.png" alt="Paper image" class="image">
     <div class="text">
       <p style="color:rgb(153, 200, 250)"><b>Analysis of Ensembles of Topological Descriptors</b></p>
-      <p>Mathieu Pont</p>
+      <p><u>Mathieu Pont</u></p>
       <p><b>Ph.D. in Computer Science (2023)</b></p>
       <p><i>Committee:</i> Gabriel Peyr√© (President), David Coeurjolly (Reviewer), Vijay Natarajan (Reviewer), Elsa Cazelles (Examiner), Stanley Durrleman (Examiner), Roland Kwitt (Examiner), Katharine Turner (Examiner), Julien Tierny (Advisor)</p>
       <p><a href=https://mathieu-pont.github.io/docs/manuscript.pdf>Manuscript</a> - <a href=https://mathieu-pont.github.io/docs/manuscript_compressed.pdf>Manuscript (compressed)</a></p>
@@ -142,8 +142,8 @@ I did my master degree at Paris Descartes University (now Universit√© Paris Cit√
     <img src="img/pont_tvcg24.png" alt="Paper image" class="image">
     <div class="text">
       <p style="color:rgb(153, 200, 250)"><b>Wasserstein Auto-Encoder of Merge Trees (and Persistence Diagrams)</b></p>
-      <p>Mathieu Pont, Julien Tierny</p>
-      <p><b>IEEE Transactions on Visualization and Computer Graphics.</b></p>
+      <p><u>Mathieu Pont</u> and Julien Tierny</p>
+      <p><b>IEEE Transactions on Visualization and Computer Graphics</b></p>
       <p>Presented at IEEE VIS 2024.</p>
       <p><a href=https://arxiv.org/pdf/2307.02509.pdf>Paper</a> - <a href=https://github.com/MatPont/MT-WAE>Code</a> - <a href=https://github.com/MatPont/WassersteinMergeTreesData>Data</a> - <a href=https://www.replicabilitystamp.org/#https-github-com-matpont-mt-wae>Replicability Stamp</a></p>
     </div>
@@ -157,9 +157,10 @@ I did my master degree at Paris Descartes University (now Universit√© Paris Cit√
     <img src="img/wetzels_vis23_mini.png" alt="Paper image" class="image">
     <div class="text">
       <p style="color:rgb(153, 200, 250)"><b>Merge Tree Geodesics and Barycenters with Path Mappings</b></p>
-      <p>Florian Wetzels, Mathieu Pont, Julien Tierny, Christoph Garth</p>
-      <p><b>IEEE Transactions on Visualization and Computer Graphics.</b></p>
+      <p>Florian Wetzels, <u>Mathieu Pont</u>, Julien Tierny and Christoph Garth</p>
+      <p><b>IEEE Transactions on Visualization and Computer Graphics</b></p>
       <p>Proc. of IEEE VIS 2023.</p>
+      <p><b>Best Paper Honorable Mention Award</b></p>
       <p><a href=https://arxiv.org/pdf/2308.03672>Paper</a> - <a href=https://github.com/vissubmission1463/ttk/>Code</a></p>
     </div>
 </div>
@@ -172,8 +173,8 @@ I did my master degree at Paris Descartes University (now Universit√© Paris Cit√
     <img src="img/pont_tvcg_2022.png" alt="Paper image" class="image">
     <div class="text">
       <p style="color:rgb(153, 200, 250)"><b>Principal Geodesic Analysis of Merge Trees (and Persistence Diagrams)</b></p>
-      <p>Mathieu Pont, Jules Vidal, Julien Tierny</p>
-      <p><b>IEEE Transactions on Visualization and Computer Graphics.</b></p>
+      <p><u>Mathieu Pont</u>, Jules Vidal and Julien Tierny</p>
+      <p><b>IEEE Transactions on Visualization and Computer Graphics</b></p>
       <p>Presented at IEEE VIS 2023.</p>
       <p><a href=https://arxiv.org/pdf/2207.10960.pdf>Paper</a> - <a href=https://github.com/MatPont/MT-PGA>Code</a> - <a href=https://github.com/MatPont/WassersteinMergeTreesData>Data</a> - <a href=http://www.replicabilitystamp.org/#https-github-com-matpont-mt-pga>Replicability Stamp</a> - <a href=https://www.youtube.com/watch?v=6CZKgVdEwn8>Talk</a></p>
     </div>
@@ -187,8 +188,8 @@ I did my master degree at Paris Descartes University (now Universit√© Paris Cit√
     <img src="img/pont_vis21_mini.png" alt="Paper image" class="image">
     <div class="text">
       <p style="color:rgb(153, 200, 250)"><b>Wasserstein Distances, Geodesics and Barycenters of Merge Trees</b></p>
-      <p>Mathieu Pont, Jules Vidal, Julie Delon, Julien Tierny</p>
-      <p><b>IEEE Transactions on Visualization and Computer Graphics.</b></p>
+      <p><u>Mathieu Pont</u>, Jules Vidal, Julie Delon and Julien Tierny</p>
+      <p><b>IEEE Transactions on Visualization and Computer Graphics</b></p>
       <p>Proc. of IEEE VIS 2021.</p>
       <p><a href=https://arxiv.org/pdf/2107.07789.pdf>Paper</a> - <a href=https://github.com/MatPont/WassersteinMergeTrees>Code</a> - <a href=https://github.com/MatPont/WassersteinMergeTreesData>Data</a> - <a href=http://www.replicabilitystamp.org/#https-github-com-matpont-wassersteinmergetrees>Replicability Stamp</a> - <a href=https://www.youtube.com/watch?v=M5fUzDpm3kY>Talk</a></p>
     </div>
@@ -213,7 +214,7 @@ I did my master degree at Paris Descartes University (now Universit√© Paris Cit√
 
 ##### 2023
 
-- Best Paper Honorable Mention at [IEEE VIS 2023](http://ieeevis.org/year/2023/welcome)  
+- Best Paper Honorable Mention Award at [IEEE VIS 2023](http://ieeevis.org/year/2023/welcome)  
 *For the paper: "Merge Tree Geodesics and Barycenters with Path Mappings "*
 
 - Best Paper and Presentation Award at [CORESA 2023](https://coresa2023.sciencesconf.org/)  
