@@ -42,13 +42,31 @@ a {
     background-color: rgb(59.51, 64.7, 70.84);
     border-radius: 10px;
 }
+.container p {
+    text-align: justify;         /* straight right edge */
+    text-justify: inter-word;    /* better spacing (where supported) */
+    hyphens: auto;               /* allow soft hyphenation */
+    overflow-wrap: break-word;   /* break very long tokens/URLs if needed */
+}
 .image {
     width: 14em;
     height: auto;
 }
 .text {
     margin-top: 10px;
-    margin-left: 30px;
+    margin-left: 25px;
+}
+
+/**/
+#about {
+  max-width: 80ch;      /* ~comfortable reading width; adjust as you like */
+  margin-inline: auto;
+}
+#about p {
+  text-align: justify;         /* straight right edge */
+  text-justify: inter-word;    /* better spacing (where supported) */
+  hyphens: auto;               /* allow soft hyphenation */
+  overflow-wrap: break-word;   /* break very long tokens/URLs if needed */
 }
 </style>
 
