@@ -59,7 +59,7 @@ a {
 
 /**/
 #about {
-  max-width: 80ch;      /* ~comfortable reading width; adjust as you like */
+  max-width: 86ch;
   margin-inline: auto;
 }
 #about p {
