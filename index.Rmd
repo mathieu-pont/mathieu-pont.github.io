@@ -248,6 +248,10 @@ I did my master degree at Paris Descartes University (now Universit√© Paris Cit√
 <!--===========================================================================-->
 ### <font size="4">Talks</font>
 
+##### 2025
+
+- Nov. 3rd, [IEEE VIS](https://ieeevis.org/year/2025/welcome) -- "Tutorial: Merge Tree Computation and Feature Tracking in TTK"
+
 ##### 2024
 
 - Nov. 21st, [CORESA](https://coresa2024.sciencesconf.org/) -- "Poster: Wasserstein Auto-Encoders of Merge Trees (and Persistence Diagrams)"
