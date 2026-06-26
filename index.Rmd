@@ -121,7 +121,7 @@ I did my master degree at Paris Descartes University (now Universit√© Paris Cit√
       <p style="color:rgb(153, 200, 250)"><b>Region-Aware Wasserstein Distances of Persistence Diagrams <br> and Merge Trees</b></p>
       <p><u>Mathieu Pont</u> and Christoph Garth</p>
       <p><b>IEEE Transactions on Visualization and Computer Graphics</b></p>
-      <p><a href=https://arxiv.org/pdf/2510.16486>Paper</a></p>
+      <p><a href=https://arxiv.org/pdf/2510.16486>Paper</a> - <a href=https://github.com/MatPont/regionWasserstein>Code</a> - <a href=https://github.com/MatPont/regionWassersteinData>Data</a></p>
     </div>
 </div>
 ```
