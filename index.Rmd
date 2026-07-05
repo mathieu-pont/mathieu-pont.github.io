@@ -266,6 +266,10 @@ I did my master degree at Paris Descartes University (now Universit√© Paris Cit√
 <!--===========================================================================-->
 ### <font size="4">Talks</font>
 
+##### 2026
+
+- Jul. 2nd, [ERC TORI Workshop Invited Talk](https://erc-tori.github.io/workshop/) -- "Analysis of Ensembles of Topological Descriptors"
+
 ##### 2025
 
 - Nov. 3rd, [IEEE VIS](https://ieeevis.org/year/2025/welcome) -- "Tutorial: Merge Tree Computation and Feature Tracking in TTK"
@@ -276,7 +280,7 @@ I did my master degree at Paris Descartes University (now Universit√© Paris Cit√
 
 - Oct. 17th, [IEEE VIS](http://ieeevis.org/year/2024/welcome) -- "Wasserstein Auto-Encoders of Merge Trees (and Persistence Diagrams)"
 
-- Jul. 1st, [RPTU Kaiserslautern-Landau](https://vis.cs.rptu.de/) Invited Talk -- "Variability Analysis of Ensembles of Topological Descriptors"
+- Jul. 1st, [RPTU Kaiserslautern-Landau Invited Talk](https://vis.cs.rptu.de/) -- "Variability Analysis of Ensembles of Topological Descriptors"
 
 - Jun. 18th, [Journ√©e Visu](https://visu-24.sciencesconf.org/) -- "Auto-Encodeurs de Wasserstein d'Arbres de Fusion (et de Diagrammes de Persistance)"
 
