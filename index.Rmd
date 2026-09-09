@@ -17,7 +17,8 @@ output:
 }
 body {
   color: rgb(242, 255, 255);
-  background-color: rgb(38.1, 42.1, 47.8);
+  /*background-color: rgb(38.1, 42.1, 47.8);*/
+  background-color: #202329;
 }
 a {
   color: rgb(77, 230, 230) !important;
