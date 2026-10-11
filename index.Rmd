@@ -131,7 +131,22 @@ I did my master degree at Paris Descartes University (now Universit√© Paris Cit√
       <p style="color:rgb(153, 200, 250)"><b>Region-Aware Wasserstein Distances of Persistence Diagrams <br> and Merge Trees</b></p>
       <p><u>Mathieu Pont</u> and Christoph Garth</p>
       <p><b><i>IEEE Transactions on Visualization and Computer Graphics.</b></i></p>
+      <p>Accepted, to be presented at IEEE VIS 2026</p>
       <p><a href=https://arxiv.org/pdf/2510.16486>Paper</a> - <a href=https://github.com/MatPont/regionWasserstein>Code</a> - <a href=https://github.com/MatPont/regionWassersteinData>Data</a></p>
+    </div>
+</div>
+```
+
+<br />
+
+```{=html}
+<div class="container">
+    <img src="img/taxonomy2_p2.png" alt="Paper image" class="image">
+    <div class="text">
+      <p style="color:rgb(153, 200, 250)"><b>A Taxonomy for Feature Tracking in Time-Varying Piecewise-Linear Scalar Fields</b></p>
+      <p>Jonas Lukasczyk, Emma Nilsson, Florian Wetzels, Andrea Schnorr, <u>Mathieu Pont</u>, Ingrid Hotz, Ross Maciejewski, Julien Tierny and Christoph Garth</p>
+      <p><b><i>IEEE Transactions on Visualization and Computer Graphics.</b></i></p>
+      <p>Accepted.</p>
     </div>
 </div>
 ```
